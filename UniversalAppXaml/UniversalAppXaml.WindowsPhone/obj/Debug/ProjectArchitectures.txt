@@ -1,0 +1,1 @@
+c:\users\jf\documents\visual studio 2013\Projects\UniversalAppXaml\UniversalAppXaml\UniversalAppXaml.WindowsPhone\UniversalAppXaml.WindowsPhone.csproj;neutral
